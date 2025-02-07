@@ -1,4 +1,4 @@
-# Assignment 01 - StackOverflow Data Processing
+# Assignment 01 -  AWS Academy and EC2
 
 ### **💻 Author**
 Name: Zimo Zeng
