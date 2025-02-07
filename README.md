@@ -1,5 +1,8 @@
 # Assignment 01 - StackOverflow Data Processing
 
+### **💻 Author**
+Name: Zimo Zeng
+
 ## 📌 Description
 This project processes StackOverflow post data to:
 - Collect system environment information
@@ -51,8 +54,3 @@ After running the script, my output is:
 Total lines containing 'Github':32725
 ```
 - This means there are 32,725 lines in the dataset that mention "GitHub".
-
-### **💻 Author**
-Name: Zimo Zeng
-
-Computing ID:zimozeng12
