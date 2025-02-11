@@ -42,8 +42,7 @@ Total lines containing 'python': 1064820
 - This indicates that there are 1,064,820 lines in the dataset that mention "Python".
 
 ### ** 2. Running count_github.py **
->>>>>>> 9ea14db (Update README.md)
-```bash
+```lua
 cd _output
 python3 count_github.py
 ```
